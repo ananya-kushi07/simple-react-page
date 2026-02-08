@@ -8,14 +8,14 @@ body {
   text-align: center;
 }
 
-/* Header */
+
 .header {
   background-color: #6366f1;
   color: white;
   padding: 25px;
 }
 
-/* Content Card */
+
 .content, .features, .profile {
   background-color: white;
   margin: 20px auto;
@@ -25,7 +25,7 @@ body {
   box-shadow: 0 4px 10px rgba(0,0,0,0.08);
 }
 
-/* Lists */
+
 .features ul {
   list-style: none;
   padding: 0;
@@ -35,7 +35,7 @@ body {
   margin: 6px 0;
 }
 
-/* Footer */
+
 .footer {
   background-color: #111827;
   color: white;
