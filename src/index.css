@@ -43,3 +43,7 @@ body {
   margin-top: 30px;
   font-size: 14px;
 }
+
+.btn:hover {
+  background-color: #b8b5d7;
+}

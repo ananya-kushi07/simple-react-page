@@ -7,6 +7,7 @@ function Content() {
         JSX, and props work together. It shows how React can be used to build
         clean and organized user interfaces.
       </p>
+      <button className="btn">Explore More</button>
     </main>
   );
 }
